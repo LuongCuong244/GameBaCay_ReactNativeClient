@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "15255751602",
+    "project_id": "gamebacay-4d87c",
+    "storage_bucket": "gamebacay-4d87c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15255751602:android:15904b13e7249f4e7472ab",
+        "android_client_info": {
+          "package_name": "com.bacayonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15255751602-qnk2hlnfik8j4cmsfsl26hnf0o60qo9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bacayonline",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "15255751602-svs4ft3d6965q37hui0rasggiiq22q1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Rw3fZRojhC3KSiBcp6FfmVZ31OQXXaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15255751602-svs4ft3d6965q37hui0rasggiiq22q1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
